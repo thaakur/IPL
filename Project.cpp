@@ -1,5 +1,5 @@
-//BANG BANG LEAGUE DATA MANAGEMENT SYSTEM.
-//CREATED BY SIDDHANT KHANDELWAL.
+//Indian Premier League DATA MANAGEMENT SYSTEM.
+//CREATED BY Avinash Kr(thaakur)
 using namespace std;
 #include<fstream>
 #include<iostream>
